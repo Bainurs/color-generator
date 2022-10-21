@@ -20,7 +20,6 @@ body {
 
 .col h2 {
     padding: 10px;
-    color: #fff;
     border-radius: 10px;
     transition: background 0.3s;
 }
@@ -35,7 +34,6 @@ body {
     border: none;
     background: transparent;
     font-size: 1.5rem;
-    color: #fff;
     padding: 10px;
     border-radius: 10px;
     transition: background 0.3s;
